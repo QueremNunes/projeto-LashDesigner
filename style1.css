@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(imagens/fundo.jpg);
+    background-size: cover; /*Preenche a tela inteira*/
+}
+
+a {
+   font-family: sans-serif; 
+   text-decoration: none;
+}
