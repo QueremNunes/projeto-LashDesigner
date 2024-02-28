@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background-color: pink;
+    background-image: url(imagens/Captura\ de\ tela\ 2024-02-28\ 193610.png);
+    background-size: cover;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+header > img {
+    margin-top: 100px;
+    width: 200px;
+    border-radius: 200px;
+    padding: 20px;
+    
+}
+
+h2 {
+    background-color: pink;
+    border-radius: 10px;
+    width: 280px;
+    height: 35px;
+    margin: auto;
+
+}
+
+h2#remocao {
+    margin-top: 20px;
+}
+
+ul {
+    columns: 2;
+    list-style-type: none;
+    text-align: center;
+    font-size: 17px;
+    background-color: pink;
+    border-radius: 25px;
+    padding: 15px;
+    width: 280px;
+    height: 80px;
+    margin: auto;
+}
