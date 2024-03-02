@@ -2,7 +2,7 @@
 
 body {
     background-color: pink;
-    background-image: url(imagens/fundo2.png) center center no-repeat fixed;
+    background-image: url(imagens/fundo2.png);
     height: 100vh;
     background-size: cover;
     text-align: center;
