@@ -10,7 +10,7 @@ body {
     background-size: cover; /*Preenche a tela inteira*/
     background-repeat: no-repeat;
     text-align: center;
-    overflow: hidden;
+    
 }
 
 
@@ -41,6 +41,7 @@ p {
 a {
    font-family: sans-serif; 
    text-decoration: none;
+   font-size: 14px;
 }
 
 nav > a {
